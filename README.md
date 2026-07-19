@@ -5,3 +5,7 @@ White Light
 Casio White Digital Line
 <img width="165" height="206" alt="Preview" src="https://github.com/user-attachments/assets/d4c09613-faed-406c-a6f2-2a70d07f9892" />
 <img width="164" height="164" alt="image" src="https://github.com/user-attachments/assets/94d5ff61-ba94-4452-ae8c-0dd7e6259f57" />
+
+Casio Black Digital Line
+<img width="165" height="206" alt="Preview" src="https://github.com/user-attachments/assets/0de5be8c-f5d3-4cde-8e2f-40cf54a958a9" />
+<img width="164" height="164" alt="image" src="https://github.com/user-attachments/assets/1072e394-f2bc-4fa8-811a-9cd630809e2d" />
