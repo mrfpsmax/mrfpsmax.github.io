@@ -7,5 +7,5 @@ Casio White Digital Line
 <img width="164" height="164" alt="image" src="https://github.com/user-attachments/assets/94d5ff61-ba94-4452-ae8c-0dd7e6259f57" />
 
 Casio Black Digital Line
-<img width="165" height="206" alt="Preview" src="https://github.com/user-attachments/assets/2b8cd081-8acd-4254-9f64-8837a668ac8b" />
+<img width="290" height="350" alt="Preview" src="https://github.com/user-attachments/assets/8df74682-671d-4c5b-b701-ce8dd5bea97e" />
 <img width="164" height="164" alt="image" src="https://github.com/user-attachments/assets/f2d19031-654b-45de-9ea6-748d44eb08a0" />
