@@ -1,6 +1,6 @@
 # Casio White Digital Line & Casio Black Digital Line
-<img width="190" height="250" alt="Preview" src="https://github.com/user-attachments/assets/67eca084-f71f-4c2d-a037-201a44dc48dd" />
-<img width="190" height="250" alt="Preview" src="https://github.com/user-attachments/assets/0ee4a8f5-7a71-41f6-ba7c-d347ed065c2e" />
+<img width="210" height="250" alt="Preview" src="https://github.com/user-attachments/assets/a8d00093-b785-4013-b510-f7f2c7eb1bae" />
+<img width="210" height="250" alt="Preview" src="https://github.com/user-attachments/assets/dfeee5a3-f53c-442e-a677-8e85078aeeca" />
 
 ### Bip 6
 <img width="164" height="164" alt="w" src="https://github.com/user-attachments/assets/e43c4ff5-3ee7-4d35-aa54-b790a056864d" />
