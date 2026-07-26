@@ -6,5 +6,6 @@
 
 ### [Bip 6] White
 <img width="164" height="164" alt="w" src="https://github.com/user-attachments/assets/e43c4ff5-3ee7-4d35-aa54-b790a056864d" />
+
 ### [Bip 6] Black
 <img width="164" height="164" alt="b" src="https://github.com/user-attachments/assets/8e38e858-1a47-4f19-8221-fd69e77b66f2" />
