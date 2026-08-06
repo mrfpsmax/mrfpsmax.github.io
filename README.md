@@ -11,7 +11,7 @@
 <img width="164" height="164" alt="b" src="https://github.com/user-attachments/assets/f31c8b28-0284-4302-b90e-b7dabecaf011" />
 
 # Cyber Casio
-<img width="432" height="514" alt="Preview" src="https://github.com/user-attachments/assets/7b3183ee-5888-4197-a9d2-1e4d8c5c555b" />
+<img width="210" height="250" alt="Preview" src="https://github.com/user-attachments/assets/7b3183ee-5888-4197-a9d2-1e4d8c5c555b" />
 
 ### Bip MAX
 <img width="164" height="164" alt="image" src="https://github.com/user-attachments/assets/2b899222-8d51-4956-80b1-690c10a9c03e" />
