@@ -1,4 +1,4 @@
-# Casio White Digital Line & Casio Black Digital Line
+# Casio White & Casio Black
 <img width="210" height="250" alt="Preview" src="https://github.com/user-attachments/assets/a8d00093-b785-4013-b510-f7f2c7eb1bae" />
 <img width="210" height="250" alt="Preview" src="https://github.com/user-attachments/assets/dfeee5a3-f53c-442e-a677-8e85078aeeca" />
 
