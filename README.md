@@ -17,6 +17,7 @@
 <img width="164" height="164" alt="image" src="https://github.com/user-attachments/assets/2b899222-8d51-4956-80b1-690c10a9c03e" />
 
 # NIKE
-<img width="432" height="514" alt="Preview" src="https://github.com/user-attachments/assets/3cb7cc19-cf97-4de8-b8f5-b08dad31d36c" />
+<img width="210" height="250" alt="Preview" src="https://github.com/user-attachments/assets/3cb7cc19-cf97-4de8-b8f5-b08dad31d36c" />
 
 ### Bip MAX
+<img width="164" height="164" alt="image" src="https://github.com/user-attachments/assets/3b00fd4b-ab18-43dc-8a5a-b2ce81b4a689" />
