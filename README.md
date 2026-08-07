@@ -7,7 +7,7 @@
 <img width="164" height="164" alt="b" src="https://github.com/user-attachments/assets/8e38e858-1a47-4f19-8221-fd69e77b66f2" />
 
 ### Bip MAX
-<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/54c117b7-8277-414d-9ce2-c36a0d59c2d5" />
+<img width="164" height="164" alt="image" src="https://github.com/user-attachments/assets/54c117b7-8277-414d-9ce2-c36a0d59c2d5" />
 <img width="164" height="164" alt="b" src="https://github.com/user-attachments/assets/f31c8b28-0284-4302-b90e-b7dabecaf011" />
 
 # Cyber Casio
