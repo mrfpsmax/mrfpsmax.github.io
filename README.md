@@ -21,3 +21,10 @@
 
 ### Bip MAX
 <img width="164" height="164" alt="image" src="https://github.com/user-attachments/assets/3b00fd4b-ab18-43dc-8a5a-b2ce81b4a689" />
+
+# Digital Future
+
+<img width="210" height="250" alt="Preview" src="https://github.com/user-attachments/assets/378151da-3ccf-4348-8b2b-8765a8561263" />
+
+### Bip MAX
+<img width="164" height="164" alt="image" src="https://github.com/user-attachments/assets/7a4147f9-9e85-4441-86a0-98cd3858bf15" />
