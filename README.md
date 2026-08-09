@@ -12,19 +12,13 @@
 
 # Cyber Casio
 <img width="210" height="250" alt="Preview" src="https://github.com/user-attachments/assets/7b3183ee-5888-4197-a9d2-1e4d8c5c555b" />
-
-### Bip MAX
 <img width="164" height="164" alt="image" src="https://github.com/user-attachments/assets/2b899222-8d51-4956-80b1-690c10a9c03e" />
 
 # NIKE
 <img width="210" height="250" alt="Preview" src="https://github.com/user-attachments/assets/3cb7cc19-cf97-4de8-b8f5-b08dad31d36c" />
-
-### Bip MAX
 <img width="164" height="164" alt="image" src="https://github.com/user-attachments/assets/3b00fd4b-ab18-43dc-8a5a-b2ce81b4a689" />
 
 # Digital Future
 
 <img width="210" height="250" alt="Preview" src="https://github.com/user-attachments/assets/378151da-3ccf-4348-8b2b-8765a8561263" />
-
-### Bip MAX
 <img width="164" height="164" alt="image" src="https://github.com/user-attachments/assets/7a4147f9-9e85-4441-86a0-98cd3858bf15" />
