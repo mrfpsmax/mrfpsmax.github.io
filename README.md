@@ -20,5 +20,5 @@
 
 # Digital Future
 
-<img width="210" height="250" alt="Preview" src="https://github.com/user-attachments/assets/5da575d4-d2ec-4b24-823d-3414ebaf5dde" />
+<img width="210" height="250" alt="Preview" src="https://github.com/user-attachments/assets/a6f5b981-ee37-4af5-b472-19b925f3a180" />
 <img width="164" height="164" alt="image" src="https://github.com/user-attachments/assets/7a4147f9-9e85-4441-86a0-98cd3858bf15" />
