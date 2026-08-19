@@ -19,7 +19,7 @@
 <img width="164" height="164" alt="image" src="https://github.com/user-attachments/assets/3b00fd4b-ab18-43dc-8a5a-b2ce81b4a689" />
 
 # NIKEv2
-<img width="250" height="250" alt="Preview" src="https://github.com/user-attachments/assets/9995e750-de36-40ed-b83a-17fe8fc08f7a" />
+<img width="210" height="250" alt="Preview" src="https://github.com/user-attachments/assets/9995e750-de36-40ed-b83a-17fe8fc08f7a" />
 <img width="164" height="164" alt="image" src="https://github.com/user-attachments/assets/a1128b99-2312-4edf-902e-eea8ba50d87d" />
 
 # Digital Future
